@@ -1,3 +1,4 @@
+bajarilgan ishlar;
 cd [papka nomi] -> bu biror papkaga kirish buyrug'i.
 cd .. -> biror papkadan chiqish.
 dir -> joriy papkadagi fayl va papkalr to'yxatini ko'rsatish.
